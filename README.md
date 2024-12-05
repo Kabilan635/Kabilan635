@@ -1,8 +1,8 @@
 ## Hi
 -----> This is kabilan
------>Trying to be a software developer
+----->Trying to be a software developer 🧑‍💻
 ----->Still learning
------>Java developer
+----->Java developer 🆘
 
 
 <!--
