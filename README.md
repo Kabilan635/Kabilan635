@@ -1,8 +1,8 @@
 ## Hello Broskies
 - ----->This is Kabilan
 - ----->Trying to be a software developer 🧑‍💻
-- ----->Still learning
-- ----->Java developer 🆘
+- ----->Java developer
+- ----->reach me : kabilanap1@gmail.com
 
 
 <!--
